@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSIndexHapticFix", "BSIndexHapticFix\BSIndexHapticFix.csproj", "{71A6A586-1683-4545-9295-A1AF472480DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A6A586-1683-4545-9295-A1AF472480DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A6A586-1683-4545-9295-A1AF472480DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A6A586-1683-4545-9295-A1AF472480DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A6A586-1683-4545-9295-A1AF472480DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D12CF74-A946-4E2A-9103-6E1D8CC943B6}
+	EndGlobalSection
+EndGlobal
