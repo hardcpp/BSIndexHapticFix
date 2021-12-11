@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BSIndexHapticFix",
+  "name": "BSIndexHapticFix",
+  "author": "HardCPP#1985",
+  "version": "0.0.1",
+  "description": "A simple mod that fix index users haptics on knuckles",
+  "gameVersion": "1.18.0",
+  "dependsOn": {
+    "BSIPA": "^4.0.5"
+  },
+  "features": []
+}
