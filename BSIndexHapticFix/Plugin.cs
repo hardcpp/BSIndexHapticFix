@@ -89,7 +89,7 @@ namespace BSIndexHapticFix
             {
                 Logger.Debug("OnApplicationQuit");
 
-                m_Harmony.UnpatchAll();
+                m_Harmony.UnpatchAll(HarmonyID);
 
                 GameObject.Destroy(LeftHapticEmulator);
                 GameObject.Destroy(RightHapticEmulator);
