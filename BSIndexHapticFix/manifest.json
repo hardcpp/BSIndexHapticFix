@@ -3,7 +3,7 @@
   "id": "BSIndexHapticFix",
   "name": "BSIndexHapticFix",
   "author": "HardCPP#1985",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple mod that fix index users haptics on knuckles",
   "gameVersion": "1.18.0",
   "dependsOn": {
